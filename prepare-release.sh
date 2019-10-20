@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo "version = $1 , branch = $2"
+echo "version = $1"
+
+printenv
