@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaiwatmat/sample-semantic-release.git"
+  },
+  "author": "chaiwat matarak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaiwatmat/sample-semantic-release/issues"
+  },
+  "homepage": "https://github.com/chaiwatmat/sample-semantic-release#readme"
 }
