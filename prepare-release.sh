@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo $1
+echo "version = $1 , branch = $2"
